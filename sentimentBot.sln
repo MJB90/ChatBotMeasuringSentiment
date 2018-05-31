@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sentimentBot", "sentimentBot\sentimentBot.csproj", "{0B23A622-88FE-439B-A2B8-B4E1D1EDC630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B23A622-88FE-439B-A2B8-B4E1D1EDC630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B23A622-88FE-439B-A2B8-B4E1D1EDC630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B23A622-88FE-439B-A2B8-B4E1D1EDC630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B23A622-88FE-439B-A2B8-B4E1D1EDC630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C31E7DA0-5000-45A7-974A-60D58EACDCAD}
+	EndGlobalSection
+EndGlobal
